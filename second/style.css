@@ -15,9 +15,16 @@
 }
 
 .bottom-block {
-  width: 100%;
+  width: 33.33%;
   height: 200px;
   background: red;
   position: absolute;
   bottom: 0;
+}
+
+.text {
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  padding-top: 65px;
 }
